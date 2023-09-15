@@ -1,0 +1,92 @@
+{
+    "anims": [
+        {
+            "key": "back_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 30,
+            "frames": [
+                {
+                    "key": "back",
+                    "frame": "back01"
+                },
+                {
+                    "key": "back",
+                    "frame": "back02"
+                },
+                {
+                    "key": "back",
+                    "frame": "back03"
+                },
+                {
+                    "key": "back",
+                    "frame": "back04"
+                },
+                {
+                    "key": "back",
+                    "frame": "back05"
+                },
+                {
+                    "key": "back",
+                    "frame": "back06"
+                },
+                {
+                    "key": "back",
+                    "frame": "back07"
+                },
+                {
+                    "key": "back",
+                    "frame": "back08"
+                },
+                {
+                    "key": "back",
+                    "frame": "back09"
+                },
+                {
+                    "key": "back",
+                    "frame": "back10"
+                },
+                {
+                    "key": "back",
+                    "frame": "back11"
+                },
+                {
+                    "key": "back",
+                    "frame": "back12"
+                },
+                {
+                    "key": "back",
+                    "frame": "back13"
+                },
+                {
+                    "key": "back",
+                    "frame": "back14"
+                },
+                {
+                    "key": "back",
+                    "frame": "back15"
+                },
+                {
+                    "key": "back",
+                    "frame": "back16"
+                },
+                {
+                    "key": "back",
+                    "frame": "back17"
+                },
+                {
+                    "key": "back",
+                    "frame": "back18"
+                },
+                {
+                    "key": "back",
+                    "frame": "back19"
+                },
+                {
+                    "key": "back",
+                    "frame": "back20"
+                }
+            ]
+        }
+    ]
+}

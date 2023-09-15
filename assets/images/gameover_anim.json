@@ -1,0 +1,164 @@
+{
+    "anims": [
+        {
+            "key": "gameover_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 30,
+            "frames": [
+                {
+                    "key": "gameover",
+                    "frame": "gameover01"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover02"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover03"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover04"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover05"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover06"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover07"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover08"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover09"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover10"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover11"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover12"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover13"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover13"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover14"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover15"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover16"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover17"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover18"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover19"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover20"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover21"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover22"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover23"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover25"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover26"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover27"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover28"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover29"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover30"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover31"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover32"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover33"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover34"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover35"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover36"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover37"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover38"
+                }
+            ]
+        }
+    ]
+}

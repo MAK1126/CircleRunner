@@ -1,0 +1,92 @@
+{
+    "anims": [
+        {
+            "key": "front_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 30,
+            "frames": [
+                {
+                    "key": "front",
+                    "frame": "front01"
+                },
+                {
+                    "key": "front",
+                    "frame": "front02"
+                },
+                {
+                    "key": "front",
+                    "frame": "front03"
+                },
+                {
+                    "key": "front",
+                    "frame": "front04"
+                },
+                {
+                    "key": "front",
+                    "frame": "front05"
+                },
+                {
+                    "key": "front",
+                    "frame": "front06"
+                },
+                {
+                    "key": "front",
+                    "frame": "front07"
+                },
+                {
+                    "key": "front",
+                    "frame": "front08"
+                },
+                {
+                    "key": "front",
+                    "frame": "front09"
+                },
+                {
+                    "key": "front",
+                    "frame": "front10"
+                },
+                {
+                    "key": "front",
+                    "frame": "front11"
+                },
+                {
+                    "key": "front",
+                    "frame": "front12"
+                },
+                {
+                    "key": "front",
+                    "frame": "front13"
+                },
+                {
+                    "key": "front",
+                    "frame": "front14"
+                },
+                {
+                    "key": "front",
+                    "frame": "front15"
+                },
+                {
+                    "key": "front",
+                    "frame": "front16"
+                },
+                {
+                    "key": "front",
+                    "frame": "front17"
+                },
+                {
+                    "key": "front",
+                    "frame": "front18"
+                },
+                {
+                    "key": "front",
+                    "frame": "front19"
+                },
+                {
+                    "key": "front",
+                    "frame": "front20"
+                }
+            ]
+        }
+    ]
+}
